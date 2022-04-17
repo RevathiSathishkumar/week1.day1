@@ -12,6 +12,8 @@ public class Fibonacciseries {
 		System.out.println("the fibonaci series" + range + "terms are");
 		
 		System.out.println(firstNum);
+		
+		System.out.println(secondnum);
 		 
 		for(int i=secondnum;i<=range;i++)
 		{
@@ -27,3 +29,7 @@ public class Fibonacciseries {
 	}
 
 }
+
+
+
+
